@@ -13,7 +13,7 @@ music.tempo();
 music.changeTempoBy(20);
 music.setTempo(120);
 ```
-
+https://www.youtube.com/watch?v=HCjNJDNzw8Y
 ## See Also
 
 [playTone](/reference/music/play-tone), [ringTone](/reference/music/ring-tone), [rest](/reference/music/rest),
